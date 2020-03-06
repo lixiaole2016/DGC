@@ -31,7 +31,7 @@ The code was tested on:
 
 
 ## Usage
-```sh
+```
 usage: python run.py [-h] [--exp EXP] [--seed SEED]
 
 optional arguments:
